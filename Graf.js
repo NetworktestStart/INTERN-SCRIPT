@@ -20,3 +20,5 @@ var ctx = document.getElementById("canvas").getContext("2d");
 	ctx.fill();
 	ctx.stroke();
 	ctx.restore();
+
+console.log("Grafik geladen");
