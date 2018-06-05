@@ -1,1 +1,1 @@
-document.getElementById('connect').innerHTML = Verbunden;
+document.getElementById('connect').innerHTML = "Verbunden";
